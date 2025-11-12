@@ -1,2 +1,2 @@
-i=1
-print(i)
+x=1
+print(x+1)
